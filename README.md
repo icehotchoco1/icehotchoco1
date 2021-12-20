@@ -1,4 +1,6 @@
+<div alignt=left>
 Welcome :)
+</div>
 
 <!--방문자 -->
 <div align = right>
