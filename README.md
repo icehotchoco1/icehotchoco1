@@ -1,3 +1,3 @@
 Welcome :)
 
-[![IceHotChoco's GitHub stats](https://github-readme-stats.vercel.app/api?username=icehotchoco1)](https://github.com/anuraghazra/github-readme-stats)
+[![IceHotChoco's GitHub stats](https://github-readme-stats.vercel.app/api?username=icehotchoco1&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
