@@ -15,5 +15,5 @@ Welcome :)
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icehotchoco1&layout=compact&theme=dark" />
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icehotchoco1&layout=compact&theme=dark" />
 </a>
