@@ -11,6 +11,6 @@ Welcome :)
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=icehotchoco1&show_icons=true&theme=dark" />
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icehotchoco1&layout=compact&theme=dark" />
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=icehotchoco1&show_icons=true&theme=dark" />
+<img display="inline" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icehotchoco1&layout=compact&theme=dark" />
 </a>
