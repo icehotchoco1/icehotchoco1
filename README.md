@@ -13,10 +13,10 @@ Welcome :)
   <tr>
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <td valign="top" width="50%">
-        <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=icehotchoco1&show_icons=true&theme=dark" />
+        <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api?username=icehotchoco1&show_icons=true&theme=dark" />
     </td>
     <td valign="top" width="50%">
-      <img display="inline" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icehotchoco1&layout=compact&theme=dark" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icehotchoco1&layout=compact&theme=dark" />
     </td>
     </a>
   </tr>
