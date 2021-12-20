@@ -9,7 +9,7 @@ Welcome :)
 </div>
 
 <br>
-<table>
+<table border="1px black">
   <tr>
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <td valign="top" width="50%">
