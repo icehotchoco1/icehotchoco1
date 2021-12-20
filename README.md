@@ -7,13 +7,11 @@ Welcome :)
 </div>
 
 <div align = center>
-  
-[![IceHotChoco's GitHub stats]
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=icehotchoco1&show_icons=true&theme=dark)]" />
 </a>
 
-  [![Top Langs]
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icehotchoco1&layout=compact" />
 </a>
