@@ -11,12 +11,15 @@ Welcome :)
 <br>
 <table>
   <tr>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
     <td valign="top" width="50%">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api?username=icehotchoco1&show_icons=true&theme=dark" />
+      </a>
     </td>
     <td valign="top" width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icehotchoco1&layout=compact&theme=dark" />
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icehotchoco1&layout=compact&theme=dark" />
+      </a>
     </td>
     </a>
   </tr>
